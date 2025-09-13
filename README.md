@@ -74,7 +74,3 @@ docker-compose up
 - **Backend API running** → screenshot of FastAPI docs (`/docs`)  
 - **OCR in action** → screenshot of text extraction from prescription  
 - **Deployment** → screenshot of container running (Docker)  
-
-*(You can later upload screenshots or record a short Loom/YouTube demo and paste the link here.)*
-
----
