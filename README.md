@@ -1,4 +1,4 @@
-# Hackathon OCR Project 🏆  
+# AI/ML OCR Project 🏆  
 OCR + Backend + Cloud + Deployment  
 
 ## 📂 Project Structure  
